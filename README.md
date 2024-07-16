@@ -20,4 +20,4 @@ Built by:
 * PhpMyAdmin (MySql) <br>
 
 <h2>Contact</h2>
-<B>Mohamed Nabil</B> <br> <a href = "https://www.linkedin.com/in/mohamed-nabil-mohamed-9286272b6">LinkedIn</a> <br> <a href = "mohamednabil5011@gmail.com">Gmail</a>
+<B>Mohamed Nabil</B> <br> <a href = "https://www.linkedin.com/in/mohamed-nabil-mohamed-9286272b6">LinkedIn</a> <br> <a href = "mohamednabil5011@gmail.com">mohamednabil5011@gmail.com</a>
