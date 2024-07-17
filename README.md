@@ -5,9 +5,32 @@ Imagine an Android app that simplifies your marketing tasks efficiently and effo
 <h2>
 There are some pictures that show what the Application looks like:
 </h2>
-1-https://github.com/user-attachments/assets/709b384a-5f0c-451c-b7ab-580b9b22f3cc <br>
-2-https://github.com/user-attachments/assets/57b6413e-816c-42f0-879e-175c31d466f8 <br>
-3-https://github.com/user-attachments/assets/7039972d-8ca5-4340-99b6-b7a26d192c47 <br>
+<br>
+<br>
+<div align="center">
+  <a href="https://github.com/user-attachments/assets/709b384a-5f0c-451c-b7ab-580b9b22f3cc">
+    <img src="https://github.com/user-attachments/assets/709b384a-5f0c-451c-b7ab-580b9b22f3cc" alt="Humanai" width="700" >
+  </a>
+</div>
+<br>
+
+<br>
+<br>
+<div align="center">
+  <a href="https://github.com/user-attachments/assets/57b6413e-816c-42f0-879e-175c31d466f8">
+    <img src="https://github.com/user-attachments/assets/57b6413e-816c-42f0-879e-175c31d466f8" alt="Humanai" width="700" >
+  </a>
+</div>
+<br>
+
+<br>
+<br>
+<div align="center">
+  <a href="https://github.com/user-attachments/assets/7039972d-8ca5-4340-99b6-b7a26d192c47">
+    <img src="https://github.com/user-attachments/assets/7039972d-8ca5-4340-99b6-b7a26d192c47" alt="Humanai" width="700" >
+  </a>
+</div>
+<br>
 
 <h2>
 Built by:
