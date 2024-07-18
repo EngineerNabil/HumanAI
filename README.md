@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Nabil</h1>
 <h3 align="center">A Mobile application developer</h3>
 - 📫 How to reach me **mohamednabil5011@gmail.com** <br>
-- 📄 Know about my experiences <a href="https://mega.nz/file/mcomkYAY#4X2uqMFRWiUW_H5xsz_6w-MCOWXw90mcTfT1FtE-ueA" target="Mohamed Nabil CV"/>Mohamed Nabil CV</a>
+- 📄 Know about my experiences <a href="https://mega.nz/file/mcomkYAY#4X2uqMFRWiUW_H5xsz_6w-MCOWXw90mcTfT1FtE-ueA" target="Mohamed Nabil CV"/>CV</a>
 <img align="right" src="https://media.licdn.com/dms/image/D4D12AQFXsKEDWu9P8w/article-cover_image-shrink_600_2000/0/1709677190553?e=2147483647&v=beta&t=Ru4UfXCcV_GXbfF4KVFL9Zdx_uccLZ4yjlrpOPozYfE" alt="mohamed__nabiill"  />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
